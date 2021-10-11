@@ -4,9 +4,9 @@
 
 <br/><br/><br>
 
-<div align="center" margin-top="50em">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gean634n&show_icons=true&locale=en&theme=nord" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gean634n&show_icons=true&locale=en&layout=compact&theme=nord" />
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gean634n&show_icons=true&locale=en&theme=nord" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gean634n&show_icons=true&locale=en&layout=compact&theme=nord" />
 </div>
 
 <br/>
