@@ -1,6 +1,6 @@
 <br/><br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Gean+Gonçalves;A+frontend+developer+from+Brazil.)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Gean+Gonçalves;A+fullstack+developer+from+Brazil.)](https://git.io/typing-svg)<br/>
 
 <br/><br/><br>
 
