@@ -5,8 +5,8 @@
 <br/><br/><br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gean634n&count_private=true&show_icons=true&locale=en&theme=nord" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gean634n&count_private=true&show_icons=true&locale=en&layout=compact&theme=nord" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gean634n&count_private=true&show_icons=true&locale=en&theme=nord" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gean634n&count_private=true&show_icons=true&locale=en&layout=compact&theme=nord" />
 </div>
 
 <br/>
